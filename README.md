@@ -2,7 +2,7 @@
 PHP Docx generator free
 
 #Using composer.json
-
+<code>
 "require": {
         "lpkapil/phpdocx": "1.0.0"
     },
@@ -20,3 +20,4 @@ PHP Docx generator free
             }
         }
     ]
+        </code>

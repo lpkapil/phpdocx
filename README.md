@@ -1,7 +1,7 @@
 # phpdocx
 PHP Docx generator free
 
-#Using composer.json
+# Using (composer.json)
 ```
 "require": {
         "lpkapil/phpdocx": "1.0.0"
